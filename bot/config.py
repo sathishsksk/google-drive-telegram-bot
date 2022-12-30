@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1989327519:AAFsdGQx7aaEKjlMqktZjMVPO87jR5E-34Y"
+    BOT_TOKEN = "5713381618:AAGHjuQZmvXd7iocySkdqizNNVEO8YfhpGQ"
     APP_ID = "1677067"
     API_HASH = "0d8c8aabe36b01db6a26a7f2780fa660"
     DATABASE_URL = "postgres://onrfwxlhriybws:a7a70aa77bc8cdd8a58c0d3911aa477052ff8ac773f1990ae695395d276cb583@ec2-44-196-8-220.compute-1.amazonaws.com:5432/d422dt9g6kn8i7"
     SUDO_USERS = "1126746691" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/rare_movies_sk"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "222511033836-ga3nori5hhm21mpfg55qnqc9fenv0kua.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "MowvmECm6hOfAyGjKDlcqRkN"
+    G_DRIVE_CLIENT_ID = "759023085267-tn7ovqlmp3qu5fvj835p66rieodnipbh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "-ppmpmEPXORfLEr2SqQqxCpr"
 
 
 class BotCommands:
